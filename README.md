@@ -10,3 +10,5 @@ https://github.com/slowhandc1ap/BackJs
 
 for front-end
 https://github.com/slowhandc1ap/FrontJs.git
+
+deploy on ruk-com cloud
